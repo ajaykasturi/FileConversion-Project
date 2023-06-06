@@ -1,7 +1,7 @@
 # FileConversion-Project
-Tools and platforms: Golang, MySQL, HTML
-Functions:
-  ->User Management
-  ->File Upload
-  ->File Conversion
-  ->File Download
+Tools and platforms: Golang, MySQL, HTML  <br>
+**Functions:**
+  ->User Management <br>
+  ->File Upload <br>
+  ->File Conversion <br>
+  ->File Download <br>
